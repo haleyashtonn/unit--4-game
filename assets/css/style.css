@@ -1,0 +1,66 @@
+
+
+.jumbotron {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Comfortaa';
+}
+
+
+.instructions {
+    color: palevioletred;
+    font-family: 'Comfortaa';
+}
+
+p.intro {
+    color: green;
+    font-family: 'Comfortaa';
+    
+
+}
+
+.col-4 {
+    background-color: aquamarine;
+    border-style: outset;
+    border-color: darkgreen;
+    border-width: 12px;
+    font-family: 'Comfortaa';
+    
+    
+}
+
+
+.col-8 {
+    background-color: aquamarine;
+    border-style: outset;
+    border-color: darkgreen;
+    border-width: 12px;
+    font-family: 'Comfortaa';
+    
+}
+.start_game {
+    background-color: blueviolet;
+    font-family: 'Comfortaa';
+}
+
+
+#one {
+    width: 50%;
+    height: 50%;
+}
+
+#two {
+    width: 50%;
+    height: 50%;
+}
+
+#three {
+    width: 50%;
+    height: 50%;
+}
+
+#four {
+    width: 50%;
+    height: 50%;
+}
